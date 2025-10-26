@@ -200,7 +200,7 @@ const Hero = () => {
         <GridContainer>
           <LeftSection>
             <MobileImageWrapper>
-              <img src="/public/mobile UI.png" alt="Mobile App Showcase" />
+              <img src="/mobile UI.png" alt="Mobile App Showcase" />
             </MobileImageWrapper>
           </LeftSection>
 
