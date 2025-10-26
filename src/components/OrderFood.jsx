@@ -105,7 +105,7 @@ const LeftContent = styled.div`
     }
 
     @media (max-width: 480px) {
-      max-width: 250px;
+      max-width: 550px;
     }
   }
 `
