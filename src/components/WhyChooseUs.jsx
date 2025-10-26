@@ -163,14 +163,14 @@ export default function WhyChooseUs() {
       title: "Focused Business Approach",
       description:
         "We research, plan, and execute – and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",
-      image: "/Choose/Group 25.png",
+      image: "/Choose/group-25.png",
       active: false,
     },
     {
       title: "Professional Team",
       description:
         "Our mobile development company has extremely professional & expert mobile app developers who specialize in 2D, 3D, & Isometric apps for Android, iOS, & web app platforms.",
-      image: "/Choose/Group 24.png",
+      image: "/Choose/group-24.png",
       active: true,
     },
     {
