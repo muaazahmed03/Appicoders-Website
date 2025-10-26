@@ -22,7 +22,7 @@ const BackgroundImage = styled.div`
   inset: 0;
   width: 100%;
   height: 100%;
-  background-image: url(/public/services-bg-red.png);
+  background-image: url(/services-bg-red.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -175,11 +175,11 @@ const Services = () => {
       {/* Content Container */}
       <ContentContainer>
         <LeftContent>
-          <img src="/public/Group 168.png" alt="Services Icons" />
+          <img src="/Group 168.png" alt="Services Icons" />
         </LeftContent>
 
         <RightContent>
-          <img src="/public/mask-group.png" alt="Laptop Mockup" />
+          <img src="/mask-group.png" alt="Laptop Mockup" />
         </RightContent>
       </ContentContainer>
     </ServicesContainer>
