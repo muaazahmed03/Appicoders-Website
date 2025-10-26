@@ -99,7 +99,7 @@ const Industry = () => {
   const industries = [
     {
       id: 1,
-      icon: "/public/Industries/pills.png",
+      icon: "/Industries/pills.png",
       title: "Medical & Pharma Services",
       description:
         "We research, plan, and execute - and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",
@@ -107,7 +107,7 @@ const Industry = () => {
     },
     {
       id: 2,
-      icon: "/public/Industries/running-shoes.png",
+      icon: "/Industries/running-shoes.png",
       title: "Training & Fitness",
       description:
         "We research, plan, and execute - and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",
@@ -115,7 +115,7 @@ const Industry = () => {
     },
     {
       id: 3,
-      icon: "/public/Industries/digital-economy.png",
+      icon: "/Industries/digital-economy.png",
       title: "Fintech",
       description:
         "We research, plan, and execute - and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",
@@ -123,7 +123,7 @@ const Industry = () => {
     },
     {
       id: 4,
-      icon: "/public/Industries/healthcare.png",
+      icon: "/Industries/healthcare.png",
       title: "Health & Fitness",
       description:
         "We research, plan, and execute - and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",
@@ -131,7 +131,7 @@ const Industry = () => {
     },
     {
       id: 5,
-      icon: "/public/Industries/briefcasee.png",
+      icon: "/Industries/briefcasee.png",
       title: "Business & Services",
       description:
         "We research, plan, and execute - and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",
@@ -139,7 +139,7 @@ const Industry = () => {
     },
     {
       id: 6,
-      icon: "/public/Industries/cleaning.png",
+      icon: "/Industries/cleaning.png",
       title: "Cleaning Services",
       description:
         "We research, plan, and execute - and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",

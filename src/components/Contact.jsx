@@ -228,7 +228,7 @@ export default function Contact() {
 
       <RightSection>
         <ImageContainer>
-          <img src="/public/Contact/image 12.png" alt="Contact" />
+          <img src="/Contact/image 12.png" alt="Contact" />
         </ImageContainer>
 
         <ContactInfo>

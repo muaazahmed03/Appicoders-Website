@@ -152,13 +152,13 @@ const OrderFood = () => {
       {/* Content Container */}
       <ContentContainer>
         <LeftContent>
-          <img src="/public/OrderFood/Group 129.png" alt="Order Food Content" />
+          <img src="/OrderFood/Group 129.png" alt="Order Food Content" />
         </LeftContent>
 
         <RightContent>
-          <img src="/public/OrderFood/Group 123.png" alt="Phone Mockup 1" />
-          <img src="/public/OrderFood/Group 122.png" alt="Phone Mockup 2" />
-          <img src="/public/OrderFood/Group 124.png" alt="Phone Mockup 3" />
+          <img src="/OrderFood/Group 123.png" alt="Phone Mockup 1" />
+          <img src="/OrderFood/Group 122.png" alt="Phone Mockup 2" />
+          <img src="/OrderFood/Group 124.png" alt="Phone Mockup 3" />
         </RightContent>
       </ContentContainer>
     </OrderFoodContainer>

@@ -77,22 +77,22 @@ export default function Awards() {
   const awards = [
     {
       id: 1,
-      image: "/public/Awards/image 4.png",
+      image: "/Awards/image 4.png",
       isDark: false,
     },
     {
       id: 2,
-      image: "/public/Awards/Group 96.png",
+      image: "/Awards/Group 96.png",
       isDark: true,
     },
     {
       id: 3,
-      image: "/public/Awards/image 2.png",
+      image: "/Awards/image 2.png",
       isDark: false,
     },
     {
       id: 4,
-      image: "/public/Awards/image 13.png",
+      image: "/Awards/image 13.png",
       isDark: false,
     },
   ]

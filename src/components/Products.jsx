@@ -15,7 +15,7 @@ const ProductsContainer = styled.section`
     left: 0;
     right: 0;
     height: 120px;
-    background-image: url('/public/Products/Vector-top.png');
+    background-image: url('/Products/Vector-top.png');
     background-size: cover;
     background-repeat: no-repeat;
     z-index: 1;
@@ -28,7 +28,7 @@ const ProductsContainer = styled.section`
     left: 0;
     right: 0;
     height: 120px;
-    background-image: url('/public/Products/Vector-bottom.png');
+    background-image: url('/Products/Vector-bottom.png');
     background-size: cover;
     background-repeat: no-repeat;
     z-index: 1;
@@ -152,40 +152,40 @@ const Products = () => {
     {
       id: 1,
       name: "CRM 365",
-      image: "/public/Products/Group 151.png",
+      image: "/Products/Group 151.png",
       hasOverlay: false,
     },
     {
       id: 2,
       name: "Marketplace E-Commerce",
-      image: "/public/Products/Group 146.png",
+      image: "/Products/Group 146.png",
       hasOverlay: false,
     },
     {
       id: 3,
       name: "Sports Training App",
-      image: "/public/Products/Group 147.png",
+      image: "/Products/Group 147.png",
       hasOverlay: false,
     },
     {
       id: 4,
       name: "Fitness",
-      image: "/public/Products/Group 149.png",
+      image: "/Products/Group 149.png",
       hasOverlay: false,
     },
     {
       id: 5,
       name: "Health Supreme",
-      image: "/public/Products/Group 147.png",
+      image: "/Products/Group 147.png",
       hasOverlay: true,
       overlayTitle: "Health Supreme",
       overlayText: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et mi consequuntur.",
-      overlayImage: "/public/Products/Group.png",
+      overlayImage: "/Products/Group.png",
     },
     {
       id: 6,
       name: "OSDA",
-      image: "/public/Products/Group 150.png",
+      image: "/Products/Group 150.png",
       hasOverlay: false,
     },
   ]
