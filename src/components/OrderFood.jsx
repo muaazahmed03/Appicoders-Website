@@ -23,7 +23,7 @@ const BackgroundImage = styled.div`
   inset: 0;
   width: 100%;
   height: 100%;
-  background-image: url(/public/food-bg.png);
+  background-image: url(/food-bg.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
