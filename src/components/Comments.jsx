@@ -1,8 +1,8 @@
 import * as React from 'react';
 import styled from "styled-components"
-import leftImage from "../../public/comments/Group 47.png"
-import rightImage from "../../public/comments/Group 91.png"
-import bgImage from "../../public/comments/Group 171.png"
+import leftImage from "/comments/Group 47.png"
+import rightImage from "/comments/Group 91.png"
+import bgImage from "/comments/Group 171.png"
 
 const Section = styled.section`
   position: relative;
@@ -18,13 +18,20 @@ const Section = styled.section`
   overflow: hidden;
   padding: 40px 20px;
 
+  @media (max-width: 1024px) {
+    min-height: 120vh;
+  }
+
   @media (max-width: 768px) {
-    min-height: auto;
-    padding: 60px 20px;
+    min-height: 150vh;
+    padding: 80px 20px;
+    background-size: cover;
+    background-position: center;
   }
 
   @media (max-width: 480px) {
-    padding: 40px 15px;
+    min-height: 180vh;
+    padding: 60px 15px;
   }
 `
 
@@ -55,13 +62,14 @@ const LeftImg = styled.img`
     position: relative;
     left: 0;
     transform: none;
-    width: 250px;
-    margin-bottom: 20px;
+    width: 280px;
+    height: auto;
+    margin-bottom: 40px;
+    order: 1;
   }
 
   @media (max-width: 480px) {
-    width: 180px;
-    margin-bottom: 15px;
+    width: 400px;
   }
 `
 
@@ -83,11 +91,15 @@ const RightImg = styled.img`
     position: relative;
     right: 0;
     transform: none;
-    width: 300px;
+    width: 320px;
+    height: auto;
+    margin-top: 40px;
+    order: 3;
   }
 
   @media (max-width: 480px) {
-    width: 220px;
+    width: 450px;
+    margin-top: 50px;
   }
 `
 
@@ -101,7 +113,8 @@ const ImagesWrapper = styled.div`
 
   @media (max-width: 768px) {
     flex-direction: column;
-    gap: 20px;
+    gap: 0;
+    width: 100%;
   }
 `
 
