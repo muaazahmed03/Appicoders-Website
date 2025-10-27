@@ -136,7 +136,7 @@ export default function Footer() {
       <FooterContent>
         {/* Left Section - Logo and Contact */}
         <LogoSection>
-          <Logo src="/public/Logo-Final 2.png" alt="AppiCodrero Inc." />
+          <Logo src="/Logo-Final 2.png" alt="AppiCodrero Inc." />
           <div>
             <ContactTitle>Contact Us</ContactTitle>
             <ContactInfo>Tel: +1 (800) 826-8018</ContactInfo>
